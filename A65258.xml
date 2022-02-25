@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Mary Watkinson, mother of Hannah Gooding (late Hannah Knight) an infant and Thomas Gooding son of Serjant Gooding</title>
+            <author>Watkinson, Mary.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65258</idno>
+            <idno type="STC">Wing W1078A</idno>
+            <idno type="STC">ESTC T127902</idno>
+            <idno type="EEBO-CITATION">99834188</idno>
+            <idno type="PROQUEST">99834188</idno>
+            <idno type="VID">38686</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38686)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2085:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Mary Watkinson, mother of Hannah Gooding (late Hannah Knight) an infant and Thomas Gooding son of Serjant Gooding</title>
+                  <author>Watkinson, Mary.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38686:1"/>
+            <head>
+               <hi>THE CASE OF Mary Watkinſon,</hi> Mother of <hi>Hannah Gooding</hi> (late <hi>Hannah Knight</hi>) an Infant and <hi>Thomas Gooding</hi> Son of Serjant <hi>Gooding.</hi>
+            </head>
+            <p>UPON the Marriage of the ſaid <hi>Mary</hi> with <hi>John Knight,</hi> Eſq; her late Husband deceaſed, who had with her Five thouſand pounds Portion, there was a Setlement made for a Joynter for her, and a Term of Five hundred Years veſted in Truſtees for raiſing of Portions for Daughters, and if but one, and no Iſſue Male, then to raiſe Five thouſand pounds Portion for ſuch Daughter payable at the day of Marriage, or One and twenty Years, with ſuch maintenance as the Truſtees ſhould think fit, not Exceeding Sixty pounds <hi>per Annum.</hi>
+            </p>
+            <p>Now the ſaid <hi>John Knight</hi> had Iſſue only one Daughter, the afore-named Infant.</p>
+            <p>And the ſaid <hi>John Knight</hi> dying about <hi>May,</hi> One thouſand ſix hundred ninty and three, his Relations uſed his Widow very hard and unkindly, which cauſed her to haſten back to her Father who lived at <hi>Chelſea</hi> in <hi>Middleſex,</hi> from whence ſhe applied her ſelf to the ſurviving Truſtees of the Infants Eſtate for a maintenance ſuitable to her Daughters Fortune, whom ſhe had put with a Maid to wait on her to a noted Boarding School in the ſame Town of <hi>Chelſea,</hi> and under the conduct of one Mrs. <hi>Prieſt,</hi> to whom ſhe gave Thirty five pounds <hi>per Annum</hi> for her ſaid Daughter and Maids Diet, and Five pounds for Wages, beſides the charge of her Cloaths, and other incident expences of the School which amounted to a conſiderable Sum, and therefore expected an allowance in ſome proportion anſwerable thereto from the ſaid Truſtees, but after much ſolicitation and attendance could prevail with them but for Forty pounds a Year, and of that never had but two Payments, in all amounting to Eighty pounds, tho' the Infants Father hath been dead almoſt four Years.</p>
+            <p>And having placed her ſaid Child at this Boarding School, ſhe reſolved to have kept her there till her Years of diſcretion, not having the leaſt thought or intention of Marrying her, till finding endeavours were uſed by her late Husbands Relations <hi>(viz.) Ann Knight</hi> his Siſter, <hi>Bridget Taylor</hi> one of the Truſtees Daughters, and others, to take her away from the ſaid School, ſo that for her preſervation ſhe brought her home to her ſelf, where the like attempts were ſtill made, and Servants tampered with to betray her to them, and this ſhe did for no other cauſe or end, but that her Child might not become a prey to thoſe who ſeemed more concerned for her Portion then her Perſon: Under this difficulty ſhe conſulted with her Friends what was to be done to ſecure her Child, and at laſt determined, that if ſhe could find a convenient March ſhe would Marry her: After this having a Propoſal made to her of Mr. <hi>Thomas Gooding</hi> the Serjants Son, and having a good account of the Serjant, did admit his ſaid Son to ſee her Daughter, and after ſeveral meetings of the Son, which as ſhe believes was without the knowledg of the Serjant, did direct the Serjant to be ſent for to Treat with him concerning his Son, who coming to her, declared his unwillingneſs to Treat with her ſingly being a Woman, but rather with her Friends, to whom he would make his Propoſals, what he would do for his Son and for ſetling her Daughters Portion, and making a proviſion for her in caſe they Married. Whereupon ſhe appointed one Mr. <hi>Whitehead</hi> an Attorney, and Mr. <hi>Mountney</hi> to Treat with the Serjant, who propoſed to them to lay out her Childs Fortune (when paid) in purchaſe of Lands of Inheritance to be ſettled as a Joynture, and in caſe ſhe ſurvived his Son without Iſſue, that the Eſtate ſo to be purchaſed, ſhould come to her and her Heirs; Alſo the Serjant offered to ſetle his intreſt in the Office of <hi>Cuſtos Brevin'</hi> of the Kings Bench on his Son immediatly upon payment of the Portion, and to charge the ſaid Office with Fifty pounds <hi>per Annum,</hi> more, as a farther proviſion for her ſaid Child, with which Propoſals ſhe being acquainted, with the advice of her Friends, whom ſhe conſulted therein, ſhe and they were well ſatisfied, and looked upon her Daughter to be thereby well provided for, in caſe the Marriage took effect. Upon which the afore mentioned Propoſals being accepted, they were reduced into Articles, and by advice of her Council ſettled and executed by the Serjant: Whereupon a Licenſe for their Marriage was taken out by her the latter end of <hi>September</hi> laſt; at which time ſhe did apprehend and ſo declared her Daughter to be about Twelve Years of Age, and ſoon after, that is to ſay, about the beginning of <hi>October</hi> laſt, they were with her conſent and approbation publickly Married, and hopes and deſires the ſame may not be avoided or diſanulled, conceiving the ſame to be for her Childs preferment, and not in the leaſt to her diſparagment or inconvenience.</p>
+            <div type="part">
+               <head>The Caſe ſo far as it concerns the ſaid Serjant and his Son, is as followeth, <hi>Viz.</hi>
+               </head>
+               <p>That the Serjant's ſaid Son (whom he hath bredd in <hi>Grays Inn</hi> a Student, and is almoſt at Bar ſtanding) having incouragment from the ſaid Mrs. <hi>Watkinſon,</hi> the Infant's Mother to Marry her ſaid Daughter, had ſeveral meetings with the Mother concerning his Marriage with her without the privity or knowledg of the Serjant, which the Mother promot'd ſo ſoon through the unkindneſs ſhe had from her late Husband's Relations and ſeveral attempts to take her ſaid Child from her by indirect means, as is preſumed either to Marry her to ſome one of their own Relations, or detain her Portion from her, till her age of One and Twenty, for the benefit of her Uncle the Heir at Law.</p>
+               <p>In which the Serjant hopes he hath done nothing unfaire, or otherwiſe then any Father might juſtifiably do for his Child, having the Mother's conſent and approbation therein, who was her Childs proper Guardian both by Nature and Law, and had the ſole diſpoſeing of her, which (as preſumed) ſhe hath done without any the leaſt Wrong or Diſparagment.</p>
+               <p>And whereas it is Objected, That the ſaid Serjant knew there was a Bill depending againſt the Mother and her Husband to take the guar<g ref="char:EOLhyphen"/>dianſhip of the Child from the Mother,
+<label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> by reaſon of her now Mariage, and the Serjant was privy thereto being of Council with the De<g ref="char:EOLhyphen"/>fendants and his hand to their anſwer.</p>
+               <p>'Tis true he did peruſe the Defendants Anſwer tho' then a ſtranger to all the Parties,
+<label type="milestone">
+                     <seg type="milestoneunit">Reſp. </seg>
+                  </label> and looked upon the Bill to have no Equity therein, whereupon to ground a Decree for to take away the Child from the Mother, to whom the Laws and Cuſtoms of this Realm have intruſted her care, education, and diſpoſal.</p>
+               <p>That in <hi>Hillary</hi> Term laſt the Surviving Truſtees for the Infants Portion, exhibited a Petition to the Lord Keeper againſt Mrs. <hi>Watkinſon</hi> and her Husband concerning the Infant,
+<note place="margin">Hillar. Terme laſt.</note> who ordered thereupon that <hi>Watkinſon,</hi> and his Wife, and Mr. Serjant <hi>Gooding</hi> ſhould appear before him with the Infant the next day of Petitions.</p>
+               <p>They attended with the Infant accordingly,
+<note place="margin">12 <hi>of March following.</hi>
+                  </note> where the Petitioners reading Affidavits that were not filed, his Lordſhip Ordered the ſame to be filed, and though the Defendants were ready with their Witneſſes to make their Defence, his Lordſhip did think fit that both ſides ſhould file their Affidavits by <hi>Tueſday</hi> noon following, and to be heard on the <hi>Thurſday</hi> after.</p>
+               <p>Both ſides appeared,
+<note place="margin">18 <hi>March.</hi>
+                  </note> and the Infant was brought into Court; but before the Cauſe came on, ſhe was conveyed away, and as is ſuppoſed by one <hi>Jane Paſmore,</hi> who about Five Years ſince was a ſervant to the Serjant: The Serjant, his Wife, her Siſter, and ſeveral of his Servants were Exa<g ref="char:EOLhyphen"/>mined whether they knew of, or were contriving to the taking away of the Infant, who all denied it, nor did, or do know any thing thereof.</p>
+               <p>As to the Son's Swearing upon the Mothers takeing out the Licenſe for Marriage, that the Infant was about Twelve Years of age, tho the ſame be not material or eſſential to the Marriage, or Licenſe, where the Parent appears, he was induced thereunto from what the Mother then declared before the Judge that took the Oath at Drs. <hi>Commons,</hi> and alſo before and after, often declared to him, his Father and Mother, that the Infant was about Twelve Years old, as ſhe really beleived, and alſo the ſaid Truſtees in their Bill exhibited in <hi>July</hi> laſt ſet forth, that ſhe was then about Ten Years old, which at <hi>Chriſtmas</hi> following would be Eleven. It being agreed on all ſides that ſhe was born about <hi>Chriſtmas.</hi>
+               </p>
+               <p>As to the Mariage, <hi>Infra Annos nubiles,</hi> with the conſent of the Father or Mother, that it is good, there are abundance of preſidents, and every days experience. The Wife is Dowable, it muſt be certified by the Biſhop a good Marriage. And alſo the Husband hath his Action <hi>de vxore abductâ cum honis viri,</hi> of a Wife, <hi>Infra Annos nubiles.</hi>
+               </p>
+               <p>All which having been tranſacted both according to the ancient Laws and frequent uſage of this Kingdom, it is hoped no Fault can be imputed where neither the known Laws, nor common Practice in like Caſes have yet found any.</p>
+               <p>All which the Petitioners are ready to make out upon Oath before your Lordſhips at the Barr of this moſt Honourable Houſe.</p>
+            </div>
+            <pb facs="tcp:38686:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
